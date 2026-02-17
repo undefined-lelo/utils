@@ -10,8 +10,8 @@ based in typescript (this is going to be fun)
 - [ ] is it down
 - [ ] website screenshotter
 - [ ] roblox api
- - [ ] group transactions
- - [ ] general group management
+    - [ ] group transactions
+    - [ ] general group management
 - [ ] display components maker w code (discord.builders)
 - [ ] image color picker
 - [ ] color palette
